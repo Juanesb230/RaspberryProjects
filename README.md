@@ -35,6 +35,6 @@ The next figure shows as the RPI receives the data.
   <img src="Images/NRFrpi.jpg">
 </p>
 
-## 7. Contact with me
+## 4. Contact with me
 
 Linkedin: <www.linkedin.com/in/juan-balseca-pinto-9117b397>
